@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.number1,
+.number3, 
+.number5 {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
